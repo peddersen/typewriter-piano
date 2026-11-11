@@ -1,0 +1,62 @@
+[
+  {
+    "id": "scale",
+    "title": "Practice scale",
+    "credit": "A scale, not a copyrighted work."
+  },
+  {
+    "id": "twinkle",
+    "title": "Twinkle, Twinkle, Little Star",
+    "credit": "Lyrics by Jane Taylor, 1806. Melody: Ah! vous dirai-je, maman. Public domain."
+  },
+  {
+    "id": "mary",
+    "title": "Mary Had a Little Lamb",
+    "credit": "Traditional, public domain."
+  },
+  {
+    "id": "row",
+    "title": "Row, Row, Row Your Boat",
+    "credit": "Traditional, public domain."
+  },
+  {
+    "id": "london",
+    "title": "London Bridge Is Falling Down",
+    "credit": "Traditional, public domain."
+  },
+  {
+    "id": "frere",
+    "title": "Frère Jacques",
+    "credit": "Traditional, public domain."
+  },
+  {
+    "id": "jingle",
+    "title": "Jingle Bells",
+    "credit": "Words and music by James Lord Pierpont, 1857. Public domain."
+  },
+  {
+    "id": "saints",
+    "title": "When the Saints Go Marching In",
+    "credit": "Traditional spiritual, public domain."
+  },
+  {
+    "id": "lune",
+    "title": "Au clair de la lune",
+    "credit": "French traditional, 18th century. Public domain."
+  },
+  {
+    "id": "joy",
+    "title": "Ode to Joy",
+    "credit": "Melody by Ludwig van Beethoven. Words by Friedrich Schiller, 1785. Public domain."
+  },
+  {
+    "id": "auld",
+    "title": "Auld Lang Syne",
+    "credit": "Words by Robert Burns, 1796. Traditional Scottish melody, 1799. Public domain."
+  },
+  {
+    "id": "birthday",
+    "title": "Happy Birthday",
+    "credit": "Melody by Mildred Hill, words by Patty Hill. Public domain."
+  }
+]
